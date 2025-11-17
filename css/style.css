@@ -751,6 +751,9 @@ main{
     transition: 0.1s;
     color:#6f5f4d ;
 }
+.icon3,.icon4,.icon5{
+    left:133px ;
+}
 .section6_icon:hover .section6_icon1{
     top: -60px;
 }
@@ -768,10 +771,19 @@ main{
     font-size: 17px;
 }
 .section6_icon3{
-    margin-left: 30px;
+    margin-left: 15px;
 }
 .section6_title2{
-    margin-left: 45px;
+    margin-left: 25px;
+}
+.section6_icon4{
+    margin-left: 15px;
+}
+.section6_icon5{
+    margin-left: 15px;
+}
+.section6_title3{
+    margin-left: 30px;
 }
 footer{
     width: 100%;
